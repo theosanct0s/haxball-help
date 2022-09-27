@@ -16,9 +16,9 @@ If you are interested in using this bot, you need to know a few things!
 
 - [Basic Scripts](#basic-scripts)
 - [Intermediate Scripts](#intermediate-scripts)
-  - [How to put in my code?](#)
+  - [How to put in my code?](#getting-started)
 - [Superior Scripts](#superior-scripts)
-  - [How to put in my code?](#)
+  - [How to put in my code?](#getting-started)
 
 ## Basic Scripts
 
