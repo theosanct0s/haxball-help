@@ -22,7 +22,7 @@ If you are interested in using this bot, you need to know a few things!
 
 ## Basic Scripts
 
-- Coming soon...
+[uniform system](https://github.com/theosanct0s/haxball-help/blob/main/basic%20scripts/uniforms.js) - You can change your team's uniform just using commands.
 
 ## Intermediate Scripts
 
