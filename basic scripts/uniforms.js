@@ -141,15 +141,3 @@ else if (["!sport"].includes(message[0].toLowerCase()))  {
     }
     return false;
 }
-
-else if (["!san"].includes(message[0].toLowerCase()))  {
-    if (player.team == 1 && teamR[0].id == player.id && teamR[0].id == player.id || player.admin){
-        room.setTeamColors(1, 90, 0x080808, [0xEBEBEB, 0xEBEBEB, 0xEBEBEB]);
-        room.sendAnnouncement("@"+player.name + " escolheu o uniforme do Santos!", null, Cor.Azulclaro, Negrito);
-    }
-    else if (player.team == 2 && teamB[0].id == player.id && teamB[0].id == player.id || player.admin){
-        room.setTeamColors(2, 90, 0x080808, [0xEBEBEB, 0xEBEBEB, 0xEBEBEB]);
-        room.sendAnnouncement("@"+player.name + " escolheu o uniforme do Santos!", null,Cor.Azulclaro, Negrito);
-    }
-    return false;
-}
